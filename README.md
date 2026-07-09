@@ -4,8 +4,10 @@ An open-source AI travel planner that turns a natural-language trip request into
 
 The application is deployed on **Render** for public use, leveraging a cloud-hosted **PostgreSQL** database to persist user threads and conversation checkpoints across sessions.
 
+Live Demo:
+
 ```text
-Live Demo: https://roamai-multi-agent-travel-planner-with.onrender.com
+https://roamai-multi-agent-travel-planner-with.onrender.com
 ```
 
 ## Table of Contents
