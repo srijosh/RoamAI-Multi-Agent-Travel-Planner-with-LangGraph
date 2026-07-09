@@ -36,13 +36,13 @@ The system also integrates LangSmith for production-grade execution tracing, obs
 1. Clone the repository:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/srijosh/RoamAI-Multi-Agent-Travel-Planner-with-LangGraph.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd RoamAI
+cd RoamAI-Multi-Agent-Travel-Planner-with-LangGraph
 ```
 
 3. Install dependencies:
